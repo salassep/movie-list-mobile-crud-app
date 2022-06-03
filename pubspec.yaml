@@ -1,0 +1,41 @@
+name: posttest7_1915016099_salassepkardianto
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.3
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.17.1
+  cloud_firestore: ^3.1.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/json/movies.json
+
+  fonts:
+    - family: Oswald
+      fonts:
+        - asset: assets/fonts/Oswald-Medium.ttf
+    - family: Oxygen
+      fonts:
+        - asset: assets/fonts/Oxygen-Regular.ttf
+    - family: Oxygen-light
+      fonts:
+        - asset: assets/fonts/Oxygen-Light.ttf

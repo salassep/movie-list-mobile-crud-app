@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "title": "Pengabdi Setan",
+      "genre": "Horror",
+      "rating": "6.5/10"
+    },
+    {
+      "title": "Kuntilanak 2",
+      "genre": "Horror",
+      "rating": "4.3/10"
+    },
+    {
+      "title": "The Raid",
+      "genre": "Action",
+      "rating": "7.9/10"
+    },
+    {
+      "title": "Headshoot",
+      "genre": "Action",
+      "rating": "6.3/10"
+    },
+    {
+      "title": "Cek Toko Sebelah",
+      "genre": "Comedy",
+      "rating": "7.9/10"
+    },
+    {
+      "title": "Koala Kumal",
+      "genre": "Comedy",
+      "rating": "6.7/10"
+    },
+    {
+      "title": "Seperti Dendam",
+      "genre": "Romance",
+      "rating": "7.1/10"
+    }
+  ]
+}
