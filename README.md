@@ -1,6 +1,6 @@
-# posttest7_1915016099_salassepkardianto
+# Movie List Mobile App
 
-A new Flutter project.
+A mobile application used for managing movie lists (CRUD)
 
 ## Getting Started
 
